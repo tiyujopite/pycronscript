@@ -1,7 +1,7 @@
 #!/usr/env python
 from setuptools import find_packages, setup
 
-version = "0.1.4"
+version = "0.9.4"
 
 requirements = [
     'appdirs',
@@ -40,7 +40,7 @@ setup(
     install_requires=requirements,
     license='MIT',
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'Environment :: Plugins',
         'Intended Audience :: Developers',
         'Intended Audience :: System Administrators',
